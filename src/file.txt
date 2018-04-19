@@ -1,0 +1,2 @@
+Voici le fichier file.txt, qui contient un texte.
+Il est composé de deux lignes.
