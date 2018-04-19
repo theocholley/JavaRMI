@@ -1,7 +1,6 @@
 package client;
 
 import server.IServer;
-import server.Server;
 
 import java.rmi.Naming;
 import java.util.Scanner;
